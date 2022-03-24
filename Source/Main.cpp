@@ -13,7 +13,6 @@
 #include <stdlib.h>
 #include <iostream>
 #include "Composer.h"
-#include "Bootstrap.h"
 #include "ParameterPoll.h"
 
 // some global constants

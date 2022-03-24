@@ -18,11 +18,6 @@ struct Automata
     // TODO
 };
 
-struct Automata
-{
-    // TODO
-};
-
 struct LatticeWalks
 {
     // TODO
